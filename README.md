@@ -5,7 +5,7 @@ An AI-powered system that automatically generates **Detailed Defect Reports (DDR
 ---
 
 ## 🌐 Live Demo
-👉 [https://your-app.streamlit.app
+👉 [https://ai_ddr-generator.streamlit.app
 ](https://ai-ddr-generator-6s9qu5jztvybzu5y2qggmh.streamlit.app/)
 ---
 
