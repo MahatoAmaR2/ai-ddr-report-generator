@@ -2,13 +2,6 @@
 
 An AI-powered system that automatically generates **Detailed Defect Reports (DDR)** from inspection PDF documents using Large Language Models.
 
----
-
-## 🌐 Live Demo
-👉 
-
-## 🌐 Demo Video
-👉 
 
 
 ---
