@@ -5,14 +5,10 @@ An AI-powered system that automatically generates **Detailed Defect Reports (DDR
 ---
 
 ## 🌐 Live Demo
-👉 [https://ai-ddr-generator.streamlit.app
-](https://ai-ddr-generator-6s9qu5jztvybzu5y2qggmh.streamlit.app/)
+👉 
 
 ## 🌐 Demo Video
-👉 [https://ai-ddr-generator-6s9qu5jztvybzu5y2qggmh.streamlit.app/](https://www.loom.com/share/3d508f29d67d4492b2283eae4504cf29)
-## OR
-
-https://github.com/user-attachments/assets/b65fd94b-f274-41c9-91cb-da6be4d67f86
+👉 
 
 
 ---
