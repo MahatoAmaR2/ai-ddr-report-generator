@@ -83,8 +83,7 @@ The system extracts:
 
 ### Technologies
 
-- pdf-parse
-- pdfjs-dist
+- pdfplumber
 
 ---
 
